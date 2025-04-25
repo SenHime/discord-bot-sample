@@ -1,0 +1,13 @@
+{
+  "name": "Discord Bot Sample",
+  "version": "1.0.0",
+  "description": "Example of Discord bot",
+  "main": "index.js",
+  "devDependencies": {
+    "better-sqlite3": "^11.9.1",
+    "discord.js": "^14.18.0",
+    "rss-parser": "^3.13.0"
+  },
+  "author": "Sen Hime",
+  "license": "ISC"
+}
